@@ -1,4 +1,4 @@
-# pagila-hw2 [![workflow status](https://github.com/BaralSubigya/pagila-hw2/actions/workflows/main.yml/badge.svg)](https://github.com/BaralSubigya/pagila-hw2/actions/workflows/main.yml)
+# pagila-hw2 [![workflow status](https://github.com/BaralSubigya/pagila-hw2/actions/workflows/tests.yml/badge.svg)](https://github.com/BaralSubigya/pagila-hw2/actions/workflows/tests.yml)
 
 
 This is the second SQL homework in CMC's CSCI143: Big Data class.
